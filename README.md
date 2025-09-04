@@ -26,8 +26,11 @@
 </div>
 
 
-- 📫 How to reach me: <a href="mailto:kristian120304@gmail.com">kristian120304@gmail.com</a>  
-- 🧰 Current setup: Neovim (Lua + Packer), VS Code, LazyGit, Harpoon, Binocular/Telescope  
+**Core Skills:**
+- ⚙️ Languages: **JavaScript**, **TypeScript**, **Python**, **Lua**, **C#**, **SQL**
+- 🌐 Frameworks: **React**, **Node.js**, **Express**, **.NET**, **Django**, **FastAPI**
+- 🧰 Tools: **Neovim (Lua + Packer)**, **VS Code**, **LazyGit**, **Telescope**, **Harpoon**
+- 📦 Platforms & DevOps: **Docker**, **Git**, **Linux**, **Bash**
 
 <br>
 
