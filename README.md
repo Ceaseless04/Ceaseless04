@@ -1,4 +1,4 @@
-## 😎 Dale
+# 😎 Dale
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kristianvazquez1/" target="_blank">
