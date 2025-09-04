@@ -15,7 +15,7 @@
 <br>
 <p align="center">
   Hi, I'm <b>Kristian Vazquez</b> — a Full-Stack Software Engineer who’s obsessed with clean tooling, slick developer workflows, and keyboard-first coding. I specialize in building robust systems across the stack, from performant APIs to modern frontend experiences. 
-  You’ll usually find me hacking on <b>Neovim configs</b>b> or testing the latest dev tools to level up DX.
+  You’ll usually find me hacking on <b>Neovim configs</b> or testing the latest dev tools to level up DX.
 </p>
 
 
