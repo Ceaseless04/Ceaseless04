@@ -26,7 +26,7 @@
 </div>
 
 
-**Core Skills:**
+## Core Skills
 - ⚙️ Languages: **JavaScript**, **TypeScript**, **Python**, **Lua**, **C#**, **SQL**
 - 🌐 Frameworks: **React**, **Node.js**, **Express**, **.NET**, **Django**, **FastAPI**
 - 🧰 Tools: **Neovim (Lua + Packer)**, **VS Code**, **LazyGit**, **Telescope**, **Harpoon**
@@ -59,8 +59,7 @@
 
 ---
 
-<details>
-<summary>📈 My GitHub Stats</summary>
+<h2>📈 My GitHub Stats</h2>
 <br/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ceaseless04&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -69,7 +68,6 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceaseless04&layout=compact&theme=gotham&langs_count=8"/>
 </p>
-</details>
 
 <br/>
 
